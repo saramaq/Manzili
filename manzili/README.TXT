@@ -1,12 +1,12 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+Project for cs102 object oriented programming course using java, I took
+this course with Dr.Sitti Haries and she is THE BEST I dedicate this project
+to her because she helped and guiede me through it very well.
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Manzili
+PURPOSE OF PROJECT: using oop aproach
+VERSION or DATE: 2019
+HOW TO START THIS PROJECT: run in any editor
+AUTHORS: Sara Maq
+
